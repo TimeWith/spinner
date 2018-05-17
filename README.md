@@ -1,6 +1,6 @@
 # Spinner
 
-React SVG-based spinner.
+React SVG-based animated spinner.
 
 ## Install
 
